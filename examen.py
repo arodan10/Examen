@@ -10,11 +10,7 @@ def notafinalDAAM():
   promediofinalDAAM=(e1*0.20+e2*0.15+e3*0.15+e4*0.50)
   #Datos de salida
   print("La nota final es:", promediofinalDAAM)
-<<<<<<< HEAD
-
-=======
-#notafinalDAAM() 
->>>>>>> 3b2ca120f4734d44344299026171a0874b16c53e
+  
 
 def bonoDocenteDAAM():
   #definir Variables
@@ -31,11 +27,7 @@ def bonoDocenteDAAM():
     bonoObtenidoDAAM=salarioMinimoDAAM*0.70
   #Datos de salida
   print("El docente obtendra un bono de:", bonoObtenidoDAAM )
-<<<<<<< HEAD
 
-=======
-#bonoDocenteDAAM()
->>>>>>> 3b2ca120f4734d44344299026171a0874b16c53e
 
 def saludDAAM():
   #definir Variables
@@ -61,11 +53,7 @@ def saludDAAM():
     tipoDAAM="ERROR intentelo nuevamente"
   #Datos de salida
   print("se le aplica la vacuna:", tipoDAAM )
-<<<<<<< HEAD
- 
-=======
-#saludDAAM() 
->>>>>>> 3b2ca120f4734d44344299026171a0874b16c53e
+
 
 def calculadoraDAAM():
   #definir Variables
@@ -97,7 +85,6 @@ def calculadoraDAAM():
   else:
     resultadoDAAM("Opción incorrecta")
   print("El resultado es:", resultadoDAAM )
-<<<<<<< HEAD
 
 
 def ejerciciosDAAM():
@@ -108,11 +95,6 @@ def ejerciciosDAAM():
   ejercicio4:  4
   ejercicio5:  5
   """)
-=======
-#calculadoraDAAM()
-
-def ejerciciosDAAM():
->>>>>>> 3b2ca120f4734d44344299026171a0874b16c53e
   ejercicioDAAM=int(input("ingrese el numero de ejercicio:"))
   if ejercicioDAAM==1:
     notafinalDAAM()
@@ -122,7 +104,6 @@ def ejerciciosDAAM():
     saludDAAM()
   elif ejercicioDAAM==4:
     calculadoraDAAM()
-<<<<<<< HEAD
   elif ejercicioDAAM==5:
     ejerciciosDAAM()
   else:
@@ -138,13 +119,8 @@ def ejerciciosDAAM():
 #ejercicio4
 #calculadoraDAAM()
 #ejercicio5
-=======
->>>>>>> 3b2ca120f4734d44344299026171a0874b16c53e
 ejerciciosDAAM()
 
 
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 3b2ca120f4734d44344299026171a0874b16c53e
